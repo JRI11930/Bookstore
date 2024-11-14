@@ -5,10 +5,10 @@
 This repo contains some SQL scripts used to create from scratch a database model for an online bookstore. The implementation aims to illustrate in a clearly way the multidimensional model using tools like SQL for OLAP applications, it's advantages and its disadvantages.
 
 ## Tabla de Contenidos
-- [Description](#descripción)
-- [Install](#instalación)
-- [Usage](#uso)
-- [License](#licencia)
+- [Description](#Description)
+- [Install](#Install)
+- [Usage](#Usage)
+- [License](#License)
 
 
 ## Install
@@ -34,7 +34,5 @@ It's only necessary to have installed the MySQL RDBMS on it's version 8.0 for th
     3. QUERIES.sql
 
 3. **License**
-
-Este proyecto está licenciado bajo la Licencia MIT. Puedes ver los detalles completos en el archivo [LICENSE](LICENSE).
 
 This project is under the MIT License. You can see the complete details in the [LICENSE](LICENSE) file.
