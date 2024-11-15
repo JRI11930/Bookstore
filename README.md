@@ -15,7 +15,7 @@ This repo contains some SQL scripts used to create from scratch a database model
 1. **Previous requirements**: 
 It's only necessary to have installed the MySQL RDBMS on it's version 8.0 for this scripts to run correctly either the docker image or the complete MS.
 
-2. **Usage**:
+## Usage
 
     - Clone the repository to your pc
 
@@ -33,6 +33,6 @@ It's only necessary to have installed the MySQL RDBMS on it's version 8.0 for th
     2. DML.sql
     3. QUERIES.sql
 
-3. **License**
+## License
 
 This project is under the MIT License. You can see the complete details in the [LICENSE](LICENSE) file.
